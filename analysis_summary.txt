@@ -1,0 +1,9 @@
+Analysis summary:
+Total students are 39,170
+Total Schools are 15
+Highest performing school is Cabrera High school 
+Bottom performing school is Johnson High school 
+
+Conclusions: 
+Increase in school size led to decrease in overall passing scores.
+Spending more per student did not co relate to better scores.
